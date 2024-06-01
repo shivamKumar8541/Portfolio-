@@ -49,4 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Shivam Kumar](https://github.com/shivamkumarsingh8541)
 - Email: shivamkumarsingh8541@email.com
-- LinkedIn:(https://www.linkedin.com/in/shivam-kumar852rb/)
+- LinkedIn:(https://www.linkedin.com/in/shivam-kumar852rb)
